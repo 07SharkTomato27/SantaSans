@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1764594251,
+	"version": 1764667415,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -67,6 +67,9 @@
 		"images/p-sheet0.png",
 		"images/pp-sheet0.png",
 		"images/pp1.png",
+		"images/sprite3-sheet0.png",
+		"images/m-sheet0.png",
+		"images/9patch.png",
 		"media/ding.ogg",
 		"media/playerfight.ogg",
 		"media/playerdamaged.ogg",
@@ -84,7 +87,7 @@
 		"media/battletext.ogg",
 		"media/playerheal.ogg",
 		"media/gasterblast2.ogg",
-		"media/mus_zz_megalovania.ogg",
+		"media/mus_christmasvania.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
@@ -105,15 +108,7 @@
 		"sans_bonegap1fast.csv",
 		"sans_platformblasterfast.csv",
 		"sans_spare.csv",
-		"sans_bonestab1.csv",
-		"sans_bonestab2.csv",
 		"sans_boneslidev.csv",
-		"sans_multi1.csv",
-		"sans_randomblaster1.csv",
-		"sans_multi2.csv",
-		"sans_randomblaster2.csv",
-		"sans_bonestab3.csv",
-		"sans_multi3.csv",
 		"sans_final.csv"
 	]
 }
