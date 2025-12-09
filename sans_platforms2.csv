@@ -2,7 +2,7 @@
 0,HeartTeleport,320,376,,,,,
 0,HeartMode,0,,,,,,
 0,TLPause,,,,,,,
-2.5,SET,Loop,25,,,,,,
+1.5,SET,Loop,25,,,,,,
 0,SUB,Loop,$Loop,1,,,,,
 0,RND,Ang,360,,,,,,
 0,COS,X,$Ang,,,,,,
